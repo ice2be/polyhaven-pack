@@ -2,8 +2,8 @@
 Textures from polyhaven.com that can be utilized in Source 2
 
 # Pack Information
-245 Textures
-2.5 GB File Size 
+224 Textures
+3.1 GB File Size 
 
 # Credits
 ````
