@@ -1,0 +1,13 @@
+{
+  "Title": "polyhaven-texture-pack",
+  "Type": "assets",
+  "Org": "local",
+  "Ident": "polyhaven-texture-pack",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": "code",
+  "RootNamespace": "Sandbox"
+}
